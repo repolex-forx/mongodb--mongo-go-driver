@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mongodb/mongo-go-driver/commit/31be4fe7124c584a720b036c98e2a4540d2e866e",
       "git:hexsha": "31be4fe7124c584a720b036c98e2a4540d2e866e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/mongodb/mongo-go-driver/commit/8e535694ecde48e5936c71ddacb194a1acbd18d4",
